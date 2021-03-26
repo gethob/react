@@ -5,11 +5,14 @@
 ١. نتزيل الكود
 git clone https://github.com/gethob/react.git
 
-٢. تثبيت
+٢. تغيير الملف
+cd react
+
+٣. تثبيت
 
 yarn install
 
-٣. بداية الاب
+٤. بداية الاب
 
 yarn start
 
