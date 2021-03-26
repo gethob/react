@@ -1,5 +1,18 @@
 # Getting Started with Create React App
 
+الخطوات:
+
+١. نتزيل الكود
+git clone https://github.com/gethob/react.git
+
+٢. تثبيت
+
+yarn install
+
+٣. بداية الاب
+
+yarn start
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
