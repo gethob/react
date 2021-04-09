@@ -1,0 +1,14 @@
+nav > a{
+  padding: 5px;
+  color: white;
+}
+header{
+  background-color: blue;
+  margin-bottom: 36px;
+}
+
+footer{
+  background-color: blue;
+  margin-bottom: 36px;
+  color: white;
+}
